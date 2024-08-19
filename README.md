@@ -1,4 +1,4 @@
-# RAG-based Question Answering System with Reranking and Compression
+# RAG-based Question Answering System with HybridSearch , Reranking and Compression
 
 This project implements a Retrieval-Augmented Generation (RAG) system for question-answering, combining multiple retrieval techniques with reranking and contextual compression to optimize the relevance and accuracy of responses.
 
